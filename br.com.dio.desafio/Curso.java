@@ -9,7 +9,7 @@ public class Curso extends Conteudo {
         return XP_PADRAO * cargaHoraria;
     }
 
-    public Curso(); {
+    public Curso() {
 
     }
 
